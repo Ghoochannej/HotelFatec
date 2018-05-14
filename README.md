@@ -1,1 +1,1 @@
-Readme
+Projeto escolar de software para gestão de Hotel.
